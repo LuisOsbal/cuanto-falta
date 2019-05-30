@@ -6,8 +6,8 @@ trips =[
    },
    {
       "destination":"Cancun",
-      "depart":"2019-06-13T05:40:00-05:00",
-      "return":"2019-06-16T10:30:00-05:00"
+      "depart":"2019-06-13T17:45:00-05:00",
+      "return":"2019-06-16T16:10:00-05:00"
    },
    {
       "destination":"Las Vegas",
